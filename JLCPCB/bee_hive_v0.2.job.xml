@@ -1,0 +1,9 @@
+<openpnp-job>
+   <panels/>
+   <board-locations>
+      <board-location side="Top" board-file="..\..\Balance_ruche\JLCPCB\Bee_hive_v0.2.board.xml" panel-id="Panel1" check-fiducials="false" enabled="true">
+         <location units="Millimeters" x="90.16809204395264" y="-132.58875913185443" z="0.0" rotation="-0.11949251318371615"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+   </board-locations>
+</openpnp-job>

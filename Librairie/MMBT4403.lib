@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MMBT4403
+#/1133901/187463/2.49/3/3/Diode
+DEF MMBT4403 D 0 30 Y Y 1 F N
+F0 "D" 1350 300 50 H V L CNN
+F1 "MMBT4403" 1350 200 50 H V L CNN
+F2 "SOT95P240X110-3N" 1350 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/345/mmbt4403-1396093.pdf" 1350 0 50 H I L CNN
+F4 "MMBT4403" 1350 -100 50 H I L CNN "Description"
+F5 "1.1" 1350 -200 50 H I L CNN "Height"
+F6 "Rectron" 1350 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MMBT4403" 1350 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "583-MMBT4403" 1350 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Rectron/MMBT4403?qs=w%2Fv1CP2dgqpECz1zaE%252B0ow%3D%3D" 1350 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MMBT4403" 1350 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mmbt4403/rectron?region=nac" 1350 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X BASE 1 0 0 200 R 50 50 0 0 P
+X EMITTER 2 0 -100 200 R 50 50 0 0 P
+X COLLECTOR 3 1500 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

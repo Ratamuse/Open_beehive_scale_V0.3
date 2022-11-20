@@ -1,0 +1,8 @@
+### Module positions - created on Thu Jul  7 22:56:43 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                                PosX       PosY       Rot  Side
+G***      LOGO           Logo_Ratamuse                      -43.7826    26.3066    0.0000  bottom
+J13       Micro_SD_Card  microSD_HC_Hirose_DM3AT-SF-PEJM5   -44.9600    90.9000    0.0000  bottom
+## End

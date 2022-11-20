@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Empreintes")(type "KiCad")(uri "${KIPRJMOD}/Empreintes.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Espressif.pretty")(options "")(descr ""))
+)
