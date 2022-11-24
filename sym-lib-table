@@ -36,4 +36,8 @@
   (lib (name "HX711")(type "Legacy")(uri "${KIPRJMOD}/Librairie/HX711.lib")(options "")(descr ""))
   (lib (name "MMBT4403")(type "Legacy")(uri "${KIPRJMOD}/Librairie/MMBT4403.lib")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Librairie/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "BMP390")(type "Legacy")(uri "${KIPRJMOD}/Librairie/BMP390.lib")(options "")(descr ""))
+  (lib (name "1043")(type "Legacy")(uri "${KIPRJMOD}/Librairie/1043.lib")(options "")(descr ""))
+  (lib (name "E32-xxxT20D")(type "Legacy")(uri "${KIPRJMOD}/Librairie/E32-xxxT20D.lib")(options "")(descr ""))
+  (lib (name "1725672")(type "Legacy")(uri "${KIPRJMOD}/Librairie/1725672.lib")(options "")(descr ""))
 )
