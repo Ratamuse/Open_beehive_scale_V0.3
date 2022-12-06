@@ -1,4 +1,4 @@
-20392980464727924
+20399659242629574
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52108,6 +52108,20 @@ Undefined or Miscellaneous
 5
 5
 Empreintes
+1725656
+1725656-5
+Connector
+0
+2
+2
+Empreintes
+1725672
+1725672-3
+Connector
+0
+4
+4
+Empreintes
 397000205
 39700-0205-4
 Connector
@@ -52219,6 +52233,20 @@ MOSFET (N-Channel)
 0
 6
 6
+Empreintes
+Heltec_WiFi_LoRa_V3
+Heltec WiFi LoRa V2 Footprint
+
+0
+40
+40
+Empreintes
+Heltec_WiFi_LoRa_V3-deawing
+Heltec WiFi LoRa V2 Footprint
+
+0
+40
+40
 Empreintes
 Hole
 

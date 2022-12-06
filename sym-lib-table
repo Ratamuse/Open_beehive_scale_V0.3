@@ -40,4 +40,5 @@
   (lib (name "1043")(type "Legacy")(uri "${KIPRJMOD}/Librairie/1043.lib")(options "")(descr ""))
   (lib (name "E32-xxxT20D")(type "Legacy")(uri "${KIPRJMOD}/Librairie/E32-xxxT20D.lib")(options "")(descr ""))
   (lib (name "1725672")(type "Legacy")(uri "${KIPRJMOD}/Librairie/1725672.lib")(options "")(descr ""))
+  (lib (name "heltec_wifi_lora_v1")(type "Legacy")(uri "${KIPRJMOD}/Librairie/heltec_wifi_lora_v1.lib")(options "")(descr ""))
 )
