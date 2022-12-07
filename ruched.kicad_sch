@@ -2858,7 +2858,7 @@
     (uuid fd3a3830-dd9f-4c44-ab44-e76a11e98364)
     (property "Reference" "U6" (id 0) (at 201.93 19.1602 0))
     (property "Value" "ESP32-S3-WROOM-2" (id 1) (at 201.93 21.6971 0))
-    (property "Footprint" "Espressif:ESP32-S3-WROOM-1" (id 2) (at 203.2 88.9 0)
+    (property "Footprint" "Espressif:ESP32-S3-WROOM-1U" (id 2) (at 203.2 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf" (id 3) (at 203.2 91.44 0)

@@ -4972,7 +4972,7 @@
       (reference "U5") (unit 1) (value "XC6220B331MR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/a9a1feef-c39d-4052-8bf2-e3ffc2216412/fd3a3830-dd9f-4c44-ab44-e76a11e98364"
-      (reference "U6") (unit 1) (value "ESP32-S3-WROOM-2") (footprint "Espressif:ESP32-S3-WROOM-1")
+      (reference "U6") (unit 1) (value "ESP32-S3-WROOM-2") (footprint "Espressif:ESP32-S3-WROOM-1U")
     )
     (path "/00000000-0000-0000-0000-0000609e7af1/f526b5d4-d24d-4a26-ba08-bbacc53ec371"
       (reference "U7") (unit 1) (value "1043") (footprint "Empreintes:1043")
